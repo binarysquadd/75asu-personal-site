@@ -4,7 +4,7 @@ title: Home
 
 ## Hey, I’m Asutosh
 
-I’m a DevOps and platform engineer with a strong backend foundation, currently working remotely with a US-based team.  
+I’m a SRE with a strong backend foundation, currently working remotely with a US-based team.  
 I focus on building **reliable infrastructure, secure systems, and automation that scales without drama**.
 
 I’ve spent the last 5+ years designing, migrating, and operating production systems — from Kubernetes clusters and CI/CD pipelines to security tooling and internal platforms.
