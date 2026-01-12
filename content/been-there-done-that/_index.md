@@ -14,7 +14,7 @@ A quiet list of places that shaped me.
 
 ### Bangkok, Thailand
 ![Bangkok, Thailand](/images/been-there-done-that/bangkok-thailand.jpg)
-*Street lights, night markets, 
+*Street lights, night markets*
 
 ### Vientiane, Laos
 ![Vientiane, Laos](/images/been-there-done-that/vientiane-laos.jpg)
