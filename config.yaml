@@ -11,14 +11,18 @@ permalinks:
   note: "/note/:year/:month/:day/:slug/"
   post: "/post/:year/:month/:day/:slug/"
 
-# menu:
-  # main:
-    # - name: Projects
-    #   url: "projects/"
-    #   weight: 1
-    # - name: Contact
-    #   url: "contact/"
-    #   weight: 2
+menu:
+  main:
+    - name: Home
+      url: "/"
+      weight: 1
+    - name: Been There Done That
+      url: "/been-there-done-that/"
+      weight: 2
+    - name: Students
+      url: "/students/"
+      weight: 3
+
 
 # params:
 #   description: "A website built through Hugo and blogdown."
